@@ -14,6 +14,9 @@
 <tr><td><b>Probabilidades y Estadística I</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
 <tr><td><b>Sistemas Digitales</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
 </table>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
 ## 📘 Segundo Año
