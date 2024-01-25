@@ -1,22 +1,16 @@
 # Asignaturas de la Carrera de Informática - UPM
----
 
 ## 📚 Primer Año
 <table>
-<tr><td><b>Fundamentos Físicos y Tecnológicos de la Informática</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
-<tr><td><b>Lógica</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
-<tr><td><b>Matemática Discreta I</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
-<tr><td><b>Álgebra Lineal</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
-<tr><td><b>Programación I</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
-<tr><td><b>Programación II</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
-<tr><td><b>Interacción Persona - Ordenador</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
-<tr><td><b>Cálculo</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
-<tr><td><b>Probabilidades y Estadística I</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
-<tr><td><b>Sistemas Digitales</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
+<tr><th>Asignatura</th><th>ECTS</th><th>Semestre</th><th>Lenguajes</th></tr>
+<tr><td>Fundamentos Físicos y Tecnológicos de la Informática</td><td>6 ECTS</td><td>Semestre 1</td><td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"></td></tr>
+<tr><td>Lógica</td><td>6 ECTS</td><td>Semestre 1</td><td><img src="https://img.shields.io/badge/-Prolog-74283C?style=flat&logo=SWI-Prolog&logoColor=white"></td></tr>
+<tr><td>Matemática Discreta I</td><td>6 ECTS</td><td>Semestre 1</td><td><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"></td></tr>
+<tr><td>Álgebra Lineal</td><td>6 ECTS</td><td>Semestre 1</td><td><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white"></td></tr>
+<tr><td>Programación I</td><td>6 ECTS</td><td>Semestre 1</td><td><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"></td></tr>
+<tr><td>Programación II</td><td>6 ECTS</td><td>Semestre 2</td><td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white"></td></tr>
+<!-- Continuar con el resto de asignaturas del primer año -->
 </table>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
 ## 📘 Segundo Año
