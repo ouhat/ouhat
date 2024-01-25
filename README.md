@@ -1,5 +1,6 @@
 # Asignaturas de la Carrera de Informática - UPM
 ---
+
 ## 📚 Primer Año
 <table>
 <tr><td><b>Fundamentos Físicos y Tecnológicos de la Informática</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 1</td></tr>
@@ -14,6 +15,7 @@
 <tr><td><b>Sistemas Digitales</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 2</td></tr>
 </table>
 ---
+
 ## 📘 Segundo Año
 <table>
 <tr><td><b>Matemática Discreta II</b> <a href="link-al-repositorio">🔗</a></td><td>3 ECTS</td><td>Semestre 3</td></tr>
@@ -28,7 +30,9 @@
 <tr><td><b>Arquitectura de Computadores</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 4</td></tr>
 <tr><td><b>Redes de Computadores</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 4</td></tr>
 </table>
+
 ---
+
 ## 📙 Tercer Año
 <table>
 <tr><td><b>Procesadores de Lenguajes</b> <a href="link-al-repositorio">🔗</a></td><td>3 ECTS</td><td>Semestre 5</td></tr>
@@ -41,7 +45,9 @@
 <tr><td><b>Sistemas Distribuidos</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 6</td></tr>
 <tr><td><b>Sistemas Orientados a Servicios</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 6</td></tr>
 </table>
+
 ---
+
 ## 📗 Cuarto Año
 <table>
 <tr><td><b>Gestión de Procesos de Tecnologías de la Información</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 7</td></tr>
@@ -49,3 +55,5 @@
 <tr><td><b>Ingeniería del Software II</b> <a href="link-al-repositorio">🔗</a></td><td>6 ECTS</td><td>Semestre 7</td></tr>
 <tr><td><b>Trabajo Fin de Grado</b> <a href="link-al-repositorio">🔗</a></td><td>12 ECTS</td><td>Semestre 8</td></tr>
 </table>
+
+---
